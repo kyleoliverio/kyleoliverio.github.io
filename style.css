@@ -3,30 +3,31 @@ body  {
 }
 
 header  {
+  position: relative;
+  top: 1em;
   text-align: center;
-  position: sticky;
-  top: 0;
 }
 
 nav {
-  position: sticky;
+  position: relative;
+  top: 1em;
 }
 
 section {
+  position: absolute;
+  width: 50%;
+  bottom: 50%;
+  left: 25%;
+  right: 25%;
   text-align: justify;
-  width: 33.33%;
-  position: relative;
-  top: ;
-  bottom: ;
-  left: 33.33%;
-  right: 33.33%
+
 }
 
 footer  {
   position: absolute;
-  bottom: 0;
-  left: 50%;
-  right: 50%;
+  bottom: 1em;
+  width: 100%;
+  text-align: center;
 }
 
 ul  {
