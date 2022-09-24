@@ -16,7 +16,7 @@ nav {
 section {
   position: absolute;
   width: 50%;
-  bottom: 50%;
+  top: 50%;
   left: 25%;
   right: 25%;
   text-align: justify;
