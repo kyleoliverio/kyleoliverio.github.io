@@ -14,13 +14,12 @@ nav {
 }
 
 section {
-  position: absolute;
-  top: 25%;
+  position: relative;
+  top: 1em;
   width: 50%;
   left: 25%;
   right: 25%;
   text-align: justify;
-
 }
 
 footer  {
