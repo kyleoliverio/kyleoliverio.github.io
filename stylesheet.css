@@ -61,7 +61,7 @@ ul  {
 
 .index {
   background-color: #BF8600;
-  border-radius: 2em;
+  border-radius: 0 0 60em 60em;
   padding: 1em;
   position: absolute;
   top: 20%;
@@ -75,8 +75,8 @@ ul  {
 .about {
   font-family: times;
   background-color: #BF5700;
-  border-radius: 2em;
-  padding: 2em;
+  border-radius: 0 0 60em 60em;
+  padding: 1em;
   position: absolute;
   top: 20%;
   bottom: 20%;
